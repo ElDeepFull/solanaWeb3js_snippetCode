@@ -28,16 +28,7 @@ This repository contains a code snippet utilizing the **web3.js** library to int
    ```
 3. Install the dependencies:
    ```bash
-   npm install 
-   {
-  "dependencies": {
-    "@solana/web3.js": "^1.95.3",
-    "bs58": "^6.0.0",
-    "dotenv": "^16.4.5",
-    "esrun": "^3.2.26"
-  }
-}
-
+   npm npm install @solana/web3.js
 
    ├── @solana-developers/helpers@2.4.0
    ├── @solana/web3.js@1.95.2
@@ -50,7 +41,7 @@ This repository contains a code snippet utilizing the **web3.js** library to int
 
 ## Usage
 
-To use the snippets, open the `index.js` file and follow the commented instructions for each feature.
+To use the snippets, open the `laoding_existing_keypair.ts` file and follow the commented instructions for each feature.
 
 ## Contribution
 
