@@ -1,9 +1,5 @@
 # solanaWeb3js_snippetCode
-
-
----
-
-# Solana Web3.js Snippet
+--------------------------
 
 ## Description
 
