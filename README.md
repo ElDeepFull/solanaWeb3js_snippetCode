@@ -1,8 +1,6 @@
 # solanaWeb3js_snippetCode
 --------------------------
-
 ## Description
-
 This repository contains a code snippet utilizing the **web3.js** library to interact with the **Solana** blockchain. The primary goal is to provide practical examples and code snippets that facilitate the development of decentralized applications (dApps) on the Solana platform.
 
 ## Features
