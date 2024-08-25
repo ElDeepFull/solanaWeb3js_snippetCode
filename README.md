@@ -41,7 +41,7 @@ This repository contains a code snippet utilizing the **web3.js** library to int
 
 ## Usage
 
-To use the snippets, open the `index.js` file and follow the commented instructions for each feature.
+To use the snippets, open the `generate-keypair.ts.js` file and follow the commented instructions for each feature.
 
 ## Contribution
 
