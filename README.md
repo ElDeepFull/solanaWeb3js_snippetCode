@@ -30,7 +30,15 @@ This repository contains a code snippet utilizing the **web3.js** library to int
    ```
 3. Install the dependencies:
    ```bash
-   npm install
+   npm npm install @solana/web3.js
+
+   ├── @solana-developers/helpers@2.4.0
+   ├── @solana/web3.js@1.95.2
+   ├── bs58@6.0.0
+   ├── dotenv@16.4.5
+   ├── esrun@3.2.26
+   └── typescript@5.5.4
+
    ```
 
 ## Usage
