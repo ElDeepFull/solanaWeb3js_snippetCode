@@ -41,7 +41,9 @@ This repository contains a code snippet utilizing the **web3.js** library to int
 
 ## Usage
 
-To use the snippets, open the `laoding_existing_keypair.ts` file and follow the commented instructions for each feature.
+To use the snippets:
+Open the `laoding_existing_keypair.ts`.
+Run `npx esrun laoding_existing_keypair.ts`.
 
 ## Contribution
 
